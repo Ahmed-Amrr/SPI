@@ -1,0 +1,43 @@
+{D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/RAM_tb.v} {1 {vlog -work work -vopt -stats=none {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/RAM_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RAM_tb
+
+Top level modules:
+	RAM_tb
+
+} {} {}} {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/SPI_tb.v} {1 {vlog -work work -vopt -stats=none {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/SPI_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_top_module_tb
+
+Top level modules:
+	SPI_top_module_tb
+
+} {} {}} {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/SPI_Slave.v} {1 {vlog -work work -vopt -stats=none {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/SPI_Slave.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_Slave
+
+Top level modules:
+	SPI_Slave
+
+} {} {}} {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/SPI_Slave_tb.v} {1 {vlog -work work -vopt -stats=none {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/SPI_Slave_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_Slave_tb
+
+Top level modules:
+	SPI_Slave_tb
+
+} {} {}} {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/SPI_top_module.v} {1 {vlog -work work -vopt -stats=none {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/SPI_top_module.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SPI_top_module
+
+Top level modules:
+	SPI_top_module
+
+} {} {}} {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/RAM.v} {1 {vlog -work work -vopt -stats=none {D:/college/Courses/Kareem Wassem/Projects/SPI/SPI Design/RAM.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RAM
+
+Top level modules:
+	RAM
+
+} {} {}}
